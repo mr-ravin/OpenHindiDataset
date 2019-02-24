@@ -20,7 +20,7 @@ This repository contains an opensourced dataset for Hindi Language, can be used 
 #### उद्धरण इकट्ठा करने के बाद कृपया उस फ़ाइल को उस उद्धरण के लेखक के नाम से सहेजें | 
 #### हिंदी उद्धरणों की एक डेमो फाइल आप सभी के साथ साझा की जाती है |
 #### इसमें चाणक्य के सभी उद्धरण शामिल थे, इसके फ़ाइल नाम भी चाणक्य था | ( chanakya.txt )
-#### किसी भी भ्रम या प्रश्न के मामले में कृपया मुझसे संपर्क करें : ravinkumar.ml@gmail.com
+#### किसी भी भ्रम या प्रश्न के मामले में कृपया मुझसे संपर्क करें : [रविन कुमार](https://mr-ravin.github.io)
 
 #### Each line will contain only one hindi Quote.
 #### Please put a space between each words.
